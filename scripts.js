@@ -6,6 +6,7 @@
 // @author       You
 // @grant        none
 // @require http://code.jquery.com/jquery-1.12.4.min.js
+// @match        https://www.opensubtitles.org/fi
 // ==/UserScript==
 
 window.open = () => {};
